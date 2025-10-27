@@ -1,13 +1,17 @@
-# 🧪 Heisenberg's Lab
+# 💎 Heisenberg's Lab
 
 > "I am not in danger, GitHub... I **am** the danger."  
 > — Walter White (aka Heisenberg)
 
+![blue crystals](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NqNnZzMmZ0ajRpN2R0NXZ4dG9oMmVibnJ0N3lxNWh1OW90ZXByciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif)
+
 ---
 
 ## ⚗️ About Me
-Python developer who treats every project like a chemical experiment.  
-Focused on clean code, precise logic, and 99.1% pure results.
+
+Chemistry teacher turned developer.  
+Now I **cook Python**, **refine SQL**, and **crystallize logic** under Linux (WSL) and Windows 11.  
+My IDE of choice? **PyCharm** — the cleanroom of my digital lab.
 
 ---
 
