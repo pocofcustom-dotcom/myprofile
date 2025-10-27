@@ -36,4 +36,4 @@ OS: Linux (WSL) / Windows 11
 Editor: PyCharm
 Language: Python 3.12
 Database: PostgreSQL / SQLite
-Shell: Bash / PowerShell
+Shell: Bash / PowerShel
