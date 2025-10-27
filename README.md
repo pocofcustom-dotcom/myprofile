@@ -3,7 +3,7 @@
 > "I am not in danger, GitHub... I **am** the danger."  
 > — Walter White (aka Heisenberg)
 
-![blue crystals](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NqNnZzMmZ0ajRpN2R0NXZ4dG9oMmVibnJ0N3lxNWh1OW90ZXByciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif)
+![Blue Crystals](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NqNnZzMmZ0ajRpN2R0NXZ4dG9oMmVibnJ0N3lxNWh1OW90ZXByciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif)
 
 ---
 
